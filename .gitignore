@@ -1,0 +1,8 @@
+# Git installer
+Git-*.exe
+*.exe
+
+# Logs and temporary files
+*.log
+.DS_Store
+Thumbs.db
