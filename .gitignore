@@ -1,6 +1,7 @@
-# Git installer
+# Binaries and archives
 Git-*.exe
 *.exe
+*.zip
 
 # Logs and temporary files
 *.log
